@@ -1,0 +1,72 @@
+body
+{
+background-color:rgb(20,20,20);	
+}
+.boxleftMultiple, .boxleftMultipleBorderTop
+{
+background-color:rgb(50,50,50);		
+}
+#BoxMessage
+{
+background-color:rgb(70,70,70);		
+}
+.boxleftMultiple
+{
+border:1px solid rgb(100,100,100);	
+}
+.TexteCenterBox h1, .addActu, .InfosTextMsg h2, .FilactuBox h2, .TexteCenterBox p, .leftItem, .leftItem i, .boxleftMultipleBorderTop h1, .TexteBoxInfosTop .recent, #PostBox h2, .PostBoxItem i, #BoxPostTop p, #menuPoint, #classerpar p, .boxleftMultiple h4, .paragraph
+{
+color:white;	
+}
+.itemGray, #BoxPostTop font, #classerpar p font, .boxleftMultiple h4 font, .paragraphGray, .paragraph font, .FilactuBox p, .InfosTextMsg p
+{
+color:rgb(200,200,200);	
+}
+#ecrirearticle
+{
+background-color:rgb(80,80,80);	
+}
+#ecrirearticle font
+{
+color:white;	
+}
+#SearchBox
+{
+background-color:rgb(224,233,238);
+}
+.TexteBoxInfos
+{
+border-top:1px solid rgb(100,100,100);	
+}
+#BoxPostTop
+{
+border-bottom:1px solid rgb(100,100,100);
+}
+.PostBoxItem
+{
+border-left:1px solid rgb(130,130,130);	
+}
+#boxBarClasser
+{
+border-top:1px solid rgb(140,140,140);
+}
+.InfosTextMsg
+{
+border-bottom:1px solid rgb(160,160,160);
+}
+#Boxavatar
+{
+border:2px solid white;
+}
+#contenaireCenter
+{
+color:rgb(230,230,230);
+}
+.BoxLinkComment
+{
+border-top:1px solid rgb(130,130,130);
+}
+.BoxLinkComment p, .infosComments
+{
+color:white;
+}
